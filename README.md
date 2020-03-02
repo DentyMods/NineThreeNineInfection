@@ -10,7 +10,7 @@ NTNI_enable | Bool | False | Should NineThreeNineInfection be enabled?
 NTNI_infectedhp | Float | 800 | How much health should 939 have 
 
 Command | Type | Description
-:---: | :---: | :---: | :------
+:---: | :---: | :------
 NineThreeNineInfection | On/Enable | Turns plugin on
 NineThreeNineInfection | Off/Disable |Turns plugin off
 
