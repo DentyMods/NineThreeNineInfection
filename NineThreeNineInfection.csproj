@@ -7,8 +7,8 @@
     <ProjectGuid>{B6EF8CDB-F6F5-41A7-9943-E682C10D764E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PeanutInfection</RootNamespace>
-    <AssemblyName>PeanutInfection</AssemblyName>
+    <RootNamespace>NineThreeNineInfection</RootNamespace>
+    <AssemblyName>NineThreeNineInfection</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
